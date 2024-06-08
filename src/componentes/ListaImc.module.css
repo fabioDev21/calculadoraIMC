@@ -1,0 +1,22 @@
+table{
+    border-collapse: collapse;
+}
+th{
+    border-collapse: collapse;
+    padding: 10px;
+    color: #eaeaea;
+}
+td{
+    border-collapse: collapse;
+    border: solid 2px #eaeaea11;
+    padding: 10px; 
+}
+tr{
+    cursor: default;
+    transition: .4s;
+}
+tr:hover{
+    color: #eaeaea;
+    border-color: #eaeaea2f;
+    background-color: #eaeaea2f;
+}
